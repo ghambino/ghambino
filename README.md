@@ -1,8 +1,14 @@
-### Hi there 👋
+
+![github header](https://user-images.githubusercontent.com/26369470/173054098-3c2a5004-9c98-42cf-9b7c-bfce978a27a7.jpg)
+
+## Hi there 👋
+
+### welcome to my little domain where i showcase what i have learned, built and supported in the course of my journey in tech.
+
+My name is  **Abdulwahab Abbas**, i am bonafide and hardworking **Nigerian** will to built and collaborate on solution to most pressing problems facing the human race
+with the power of the internet and web related technologies... 
 
 <!--
-**ghambino/ghambino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -11,6 +17,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
