@@ -3,9 +3,9 @@
 
 ## Hi there 👋
 
-### welcome to my little domain where i showcase what i have learned, built and supported in the course of my journey in tech.
+### welcome to my little domain where i showcase what i have learnt, built and supported in the course of my journey in tech.
 
-My name is  **Abdulwahab Abbas**, i am bonafide and hardworking **Nigerian** will to built and collaborate on solution to most pressing problems facing the human race
+My name is  **Abdulwahab Abbas**, i am bonafide and hardworking **Nigerian** aiming to build and collaborate on solution to most pressing problems facing the human race
 with the power of the internet and web related technologies... 
 
 <!--
